@@ -1,6 +1,6 @@
-formula,expected_calculations,successful_calculations,recovered_by_retry,retrieval_seconds,fingerprint_seconds,similarity_seconds,preparation_seconds,plot_seconds,total_seconds,heatmap_path,status
-AgKO3,144,83,25,81.06112470600056,72.35227073699934,7.328355431000091,0.2027539959999558,1.1869782739995571,162.1314831439995,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/AgKO3_DOS_similarity_heatmap.png,success
-BCoV2,144,109,47,135.3228976069986,86.10798728499867,12.235198840000521,0.3179997320003167,1.0217877950017282,235.00587125899983,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BCoV2_DOS_similarity_heatmap.png,success
-BaK2Li,144,92,19,98.44410470599541,69.48904334799954,8.621677874001762,0.3160289730003569,1.0667827450015466,177.93763764599862,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BaK2Li_DOS_similarity_heatmap.png,success
-CO3Ru,144,102,37,114.84826931299904,71.3773030960001,9.165590798998892,0.2556279330019606,0.8113281820005795,196.45811932300057,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/CO3Ru_DOS_similarity_heatmap.png,success
-Ca2CdP,144,87,25,83.63790446600251,65.32203861599919,7.785994621001009,0.20368710299953818,0.9583642610014067,157.90798906700365,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/Ca2CdP_DOS_similarity_heatmap.png,success
+formula,expected_calculations,successful_calculations,recovered_by_retry,retrieval_minutes,fingerprint_minutes,similarity_minutes,preparation_minutes,plot_minutes,total_minutes,heatmap_path,status
+AgKO3,144,83,25,1.35,1.21,0.12,0.0,0.02,2.7,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/AgKO3_DOS_similarity_heatmap.png,success
+BCoV2,144,109,47,2.26,1.44,0.2,0.01,0.02,3.92,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BCoV2_DOS_similarity_heatmap.png,success
+BaK2Li,144,92,19,1.64,1.16,0.14,0.01,0.02,2.97,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BaK2Li_DOS_similarity_heatmap.png,success
+CO3Ru,144,102,37,1.91,1.19,0.15,0.0,0.01,3.27,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/CO3Ru_DOS_similarity_heatmap.png,success
+Ca2CdP,144,87,25,1.39,1.09,0.13,0.0,0.02,2.63,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/Ca2CdP_DOS_similarity_heatmap.png,success
