@@ -1,6 +1,6 @@
 formula,expected_calculations,successful_calculations,recovered_by_retry,retrieval_minutes,fingerprint_minutes,similarity_minutes,preparation_minutes,plot_minutes,total_minutes,heatmap_path,status
-AgKO3,144,83,25,1.35,1.21,0.12,0.0,0.02,2.7,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/AgKO3_DOS_similarity_heatmap.png,success
-BCoV2,144,109,47,2.26,1.44,0.2,0.01,0.02,3.92,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BCoV2_DOS_similarity_heatmap.png,success
-BaK2Li,144,92,19,1.64,1.16,0.14,0.01,0.02,2.97,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BaK2Li_DOS_similarity_heatmap.png,success
-CO3Ru,144,102,37,1.91,1.19,0.15,0.0,0.01,3.27,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/CO3Ru_DOS_similarity_heatmap.png,success
-Ca2CdP,144,87,25,1.39,1.09,0.13,0.0,0.02,2.63,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/Ca2CdP_DOS_similarity_heatmap.png,success
+AgKO3,144,83,25,1.35,1.21,0.12,0.0,0.02,2.7,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/AgKO3_DOS_similarity_heatmap.svg,success
+BCoV2,144,109,47,2.26,1.44,0.2,0.01,0.02,3.92,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BCoV2_DOS_similarity_heatmap.svg,success
+BaK2Li,144,92,19,1.64,1.16,0.14,0.01,0.02,2.97,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/BaK2Li_DOS_similarity_heatmap.svg,success
+CO3Ru,144,102,37,1.91,1.19,0.15,0.0,0.01,3.27,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/CO3Ru_DOS_similarity_heatmap.svg,success
+Ca2CdP,144,87,25,1.39,1.09,0.13,0.0,0.02,2.63,/home/ahmed/SOL_Research/dos-convergence-analysis/results/validation/Ca2CdP_DOS_similarity_heatmap.svg,success
