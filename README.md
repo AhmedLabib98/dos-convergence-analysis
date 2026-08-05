@@ -37,3 +37,9 @@ To run the notebook: "comparing_web_databases_volumes.ipynb", please set an envi
 ```bash
 export MP_API_KEY=<YOUR_KEY>
 ```
+
+## Results
+
+Full 161-material production run: **148/161 materials fully converged** (13 incomplete).
+
+See the [full results table](results/full_run/RESULTS_TABLE.md) for a per-material breakdown with ✅/❌ status.
