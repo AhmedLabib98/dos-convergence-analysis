@@ -1,165 +1,167 @@
 **Summary:** 148/161 materials fully converged (13 incomplete)
 
-| Formula | Expected | Successful | Count Complete | Heatmap Generated | Status |
-|---|---|---|---|---|---|
-| Ac2Cl6 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ag4 | 317 | 317 | ✅ | ✅ | ✅ success |
-| Ag4Cl4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| AgKO3 | 144 | 144 | ✅ | ✅ | ✅ success |
-| Al4 | 323 | 323 | ✅ | ✅ | ✅ success |
-| Al4P4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| AlGaO3 | 144 | 144 | ✅ | ✅ | ✅ success |
-| Ar4 | 317 | 311 | ❌ | ✅ | ⚠️ incomplete |
-| As4Ga4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| As6 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Au4 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Au4S2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| B12 | 323 | 323 | ✅ | ✅ | ✅ success |
-| B2N2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| BCoV2 | 144 | 144 | ✅ | ✅ | ✅ success |
-| BOs | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ba2 | 321 | 277 | ❌ | ✅ | ⚠️ incomplete |
-| Ba4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| BaK2Li | 144 | 144 | ✅ | ✅ | ✅ success |
-| Be2 | 317 | 273 | ❌ | ✅ | ⚠️ incomplete |
-| Be4S4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Bi4F12 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Bi6 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Br4Cu4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Br4K4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Br8 | 321 | 321 | ✅ | ✅ | ✅ success |
-| C4 | 325 | 325 | ✅ | ✅ | ✅ success |
-| C4Hf4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Nb4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Si4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Ta4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Th4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Ti4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4V4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| C4Zr4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| CMo | 288 | 288 | ✅ | ✅ | ✅ success |
-| CO3Ru | 144 | 144 | ✅ | ✅ | ✅ success |
-| CW | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ca2CdP | 144 | 144 | ✅ | ✅ | ✅ success |
-| Ca4 | 327 | 301 | ❌ | ✅ | ⚠️ incomplete |
-| Ca4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cd2 | 319 | 287 | ❌ | ✅ | ⚠️ incomplete |
-| Cd2Se2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cd4O4 | 576 | 576 | ✅ | ✅ | ✅ success |
-| Ce4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl4Cu4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl4K4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl4Na4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl4Rb4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl6La2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cl8 | 329 | 329 | ✅ | ✅ | ✅ success |
-| ClCs | 288 | 288 | ✅ | ✅ | ✅ success |
-| ClLi2Sn | 144 | 144 | ✅ | ✅ | ✅ success |
-| ClTl | 288 | 288 | ✅ | ✅ | ✅ success |
-| Co2 | 325 | 325 | ✅ | ✅ | ✅ success |
-| Co4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cr2 | 333 | 333 | ✅ | ✅ | ✅ success |
-| Cr4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Cs2 | 317 | 317 | ✅ | ✅ | ✅ success |
-| Cu4 | 319 | 319 | ✅ | ✅ | ✅ success |
-| CuFe2Ni | 144 | 144 | ✅ | ✅ | ✅ success |
-| Dy4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Er4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Eu4S4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| F4Li4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| F4Na4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| F8 | 321 | 321 | ✅ | ✅ | ✅ success |
-| F8Hg4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| F8Ra4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Fe2 | 329 | 329 | ✅ | ✅ | ✅ success |
-| Fe4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ga4P4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ga8 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Gd4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ge2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Ge3Te3 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ge4Mg4N8 | 144 | 144 | ✅ | ✅ | ✅ success |
-| H4 | 307 | 307 | ✅ | ✅ | ✅ success |
-| H4Li4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| He2 | 307 | 307 | ✅ | ✅ | ✅ success |
-| Hf2 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Hg2 | 323 | 299 | ❌ | ✅ | ⚠️ incomplete |
-| Ho4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| I4Li4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| I8 | 319 | 319 | ✅ | ✅ | ✅ success |
-| In2 | 319 | 319 | ✅ | ✅ | ✅ success |
-| In4P4 | 576 | 576 | ✅ | ✅ | ✅ success |
-| In4Sb4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ir2O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ir4 | 319 | 319 | ✅ | ✅ | ✅ success |
-| IrNa2Zn | 144 | 144 | ✅ | ✅ | ✅ success |
-| K2 | 323 | 323 | ✅ | ✅ | ✅ success |
-| Kr4 | 317 | 243 | ❌ | ✅ | ⚠️ incomplete |
-| Li3 | 315 | 315 | ✅ | ✅ | ✅ success |
-| Lu2 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Lu4N4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Mg2 | 317 | 293 | ❌ | ✅ | ⚠️ incomplete |
-| Mg4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Mn4 | 325 | 325 | ✅ | ✅ | ✅ success |
-| Mn4S4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Mo2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| N4Nd4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Pr4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Sm4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Tb4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Ti4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Tm4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4V4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Y4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N4Yb4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| N8 | 329 | 329 | ✅ | ✅ | ✅ success |
-| Na3 | 323 | 323 | ✅ | ✅ | ✅ success |
-| Nb2 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Ne4 | 317 | 264 | ❌ | ✅ | ⚠️ incomplete |
-| Ni4 | 325 | 325 | ✅ | ✅ | ✅ success |
-| Ni4O4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O2Pd2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O2Pt2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O3Pm2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O3Re | 288 | 288 | ✅ | ✅ | ✅ success |
-| O4 | 329 | 329 | ✅ | ✅ | ✅ success |
-| O4Rh2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O4Ru2 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O4Sr4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O8Po4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| O8Tc4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Os2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| P8 | 331 | 331 | ✅ | ✅ | ✅ success |
-| Pb4 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Pb4S4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Pd4 | 317 | 317 | ✅ | ✅ | ✅ success |
-| Po | 321 | 321 | ✅ | ✅ | ✅ success |
-| Pt4 | 307 | 307 | ✅ | ✅ | ✅ success |
-| Rb2 | 315 | 315 | ✅ | ✅ | ✅ success |
-| Re2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Rh4 | 315 | 315 | ✅ | ✅ | ✅ success |
-| Rn4 | 307 | 236 | ❌ | ✅ | ⚠️ incomplete |
-| Ru2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| S | 329 | 329 | ✅ | ✅ | ✅ success |
-| S4Sc4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| S4Sn4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| S4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Sb6 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Sc2 | 325 | 325 | ✅ | ✅ | ✅ success |
-| Se3 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Si2 | 333 | 333 | ✅ | ✅ | ✅ success |
-| Sn2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Sr4 | 317 | 296 | ❌ | ✅ | ⚠️ incomplete |
-| Ta2 | 317 | 317 | ✅ | ✅ | ✅ success |
-| Tc2 | 327 | 327 | ✅ | ✅ | ✅ success |
-| Te3 | 323 | 323 | ✅ | ✅ | ✅ success |
-| Te4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success |
-| Ti2 | 329 | 329 | ✅ | ✅ | ✅ success |
-| Tl2 | 317 | 317 | ✅ | ✅ | ✅ success |
-| V2 | 331 | 331 | ✅ | ✅ | ✅ success |
-| W2 | 321 | 321 | ✅ | ✅ | ✅ success |
-| Xe4 | 307 | 229 | ❌ | ✅ | ⚠️ incomplete |
-| Y2 | 319 | 319 | ✅ | ✅ | ✅ success |
-| Zn2 | 323 | 275 | ❌ | ✅ | ⚠️ incomplete |
-| Zr2 | 321 | 321 | ✅ | ✅ | ✅ success |
+**Row-sorted run (grid fix + volume split + row-similarity sort):** 146/161 materials processed (2 pending review: Cs2, Cu4, 13 excluded as incomplete)
+
+| Formula | Expected | Successful | Count Complete | Heatmap Generated | Status | Row-Sorted Heatmap |
+|---|---|---|---|---|---|---|
+| Ac2Cl6 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ac2Cl6_volume_split_row_sorted.svg) |
+| Ag4 | 317 | 317 | ✅ | ✅ | ✅ success | [view](heatmaps/Ag4_volume_split_row_sorted.svg) |
+| Ag4Cl4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ag4Cl4_volume_split_row_sorted.svg) |
+| AgKO3 | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/AgKO3_volume_split_row_sorted.svg) |
+| Al4 | 323 | 323 | ✅ | ✅ | ✅ success | [view](heatmaps/Al4_volume_split_row_sorted.svg) |
+| Al4P4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Al4P4_volume_split_row_sorted.svg) |
+| AlGaO3 | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/AlGaO3_volume_split_row_sorted.svg) |
+| Ar4 | 317 | 311 | ❌ | ✅ | ⚠️ incomplete | — |
+| As4Ga4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/As4Ga4_volume_split_row_sorted.svg) |
+| As6 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/As6_volume_split_row_sorted.svg) |
+| Au4 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Au4_volume_split_row_sorted.svg) |
+| Au4S2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Au4S2_volume_split_row_sorted.svg) |
+| B12 | 323 | 323 | ✅ | ✅ | ✅ success | [view](heatmaps/B12_volume_split_row_sorted.svg) |
+| B2N2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/B2N2_volume_split_row_sorted.svg) |
+| BCoV2 | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/BCoV2_volume_split_row_sorted.svg) |
+| BOs | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/BOs_volume_split_row_sorted.svg) |
+| Ba2 | 321 | 277 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ba4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ba4O4_volume_split_row_sorted.svg) |
+| BaK2Li | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/BaK2Li_volume_split_row_sorted.svg) |
+| Be2 | 317 | 273 | ❌ | ✅ | ⚠️ incomplete | — |
+| Be4S4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Be4S4_volume_split_row_sorted.svg) |
+| Bi4F12 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Bi4F12_volume_split_row_sorted.svg) |
+| Bi6 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Bi6_volume_split_row_sorted.svg) |
+| Br4Cu4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Br4Cu4_volume_split_row_sorted.svg) |
+| Br4K4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Br4K4_volume_split_row_sorted.svg) |
+| Br8 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Br8_volume_split_row_sorted.svg) |
+| C4 | 325 | 325 | ✅ | ✅ | ✅ success | [view](heatmaps/C4_volume_split_row_sorted.svg) |
+| C4Hf4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Hf4_volume_split_row_sorted.svg) |
+| C4Nb4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Nb4_volume_split_row_sorted.svg) |
+| C4Si4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Si4_volume_split_row_sorted.svg) |
+| C4Ta4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Ta4_volume_split_row_sorted.svg) |
+| C4Th4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Th4_volume_split_row_sorted.svg) |
+| C4Ti4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Ti4_volume_split_row_sorted.svg) |
+| C4V4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4V4_volume_split_row_sorted.svg) |
+| C4Zr4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/C4Zr4_volume_split_row_sorted.svg) |
+| CMo | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/CMo_volume_split_row_sorted.svg) |
+| CO3Ru | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/CO3Ru_volume_split_row_sorted.svg) |
+| CW | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/CW_volume_split_row_sorted.svg) |
+| Ca2CdP | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/Ca2CdP_volume_split_row_sorted.svg) |
+| Ca4 | 327 | 301 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ca4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ca4O4_volume_split_row_sorted.svg) |
+| Cd2 | 319 | 287 | ❌ | ✅ | ⚠️ incomplete | — |
+| Cd2Se2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cd2Se2_volume_split_row_sorted.svg) |
+| Cd4O4 | 576 | 576 | ✅ | ✅ | ✅ success | [view](heatmaps/Cd4O4_volume_split_row_sorted.svg) |
+| Ce4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ce4N4_volume_split_row_sorted.svg) |
+| Cl4Cu4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl4Cu4_volume_split_row_sorted.svg) |
+| Cl4K4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl4K4_volume_split_row_sorted.svg) |
+| Cl4Na4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl4Na4_volume_split_row_sorted.svg) |
+| Cl4Rb4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl4Rb4_volume_split_row_sorted.svg) |
+| Cl6La2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl6La2_volume_split_row_sorted.svg) |
+| Cl8 | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/Cl8_volume_split_row_sorted.svg) |
+| ClCs | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/ClCs_volume_split_row_sorted.svg) |
+| ClLi2Sn | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/ClLi2Sn_volume_split_row_sorted.svg) |
+| ClTl | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/ClTl_volume_split_row_sorted.svg) |
+| Co2 | 325 | 325 | ✅ | ✅ | ✅ success | [view](heatmaps/Co2_volume_split_row_sorted.svg) |
+| Co4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Co4O4_volume_split_row_sorted.svg) |
+| Cr2 | 333 | 333 | ✅ | ✅ | ✅ success | [view](heatmaps/Cr2_volume_split_row_sorted.svg) |
+| Cr4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Cr4N4_volume_split_row_sorted.svg) |
+| Cs2 | 317 | 317 | ✅ | ✅ | ⏸️ pending review (Martin) | — |
+| Cu4 | 319 | 319 | ✅ | ✅ | ⏸️ pending review (Martin) | — |
+| CuFe2Ni | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/CuFe2Ni_volume_split_row_sorted.svg) |
+| Dy4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Dy4N4_volume_split_row_sorted.svg) |
+| Er4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Er4N4_volume_split_row_sorted.svg) |
+| Eu4S4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Eu4S4_volume_split_row_sorted.svg) |
+| F4Li4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/F4Li4_volume_split_row_sorted.svg) |
+| F4Na4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/F4Na4_volume_split_row_sorted.svg) |
+| F8 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/F8_volume_split_row_sorted.svg) |
+| F8Hg4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/F8Hg4_volume_split_row_sorted.svg) |
+| F8Ra4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/F8Ra4_volume_split_row_sorted.svg) |
+| Fe2 | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/Fe2_volume_split_row_sorted.svg) |
+| Fe4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Fe4O4_volume_split_row_sorted.svg) |
+| Ga4P4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ga4P4_volume_split_row_sorted.svg) |
+| Ga8 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Ga8_volume_split_row_sorted.svg) |
+| Gd4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Gd4N4_volume_split_row_sorted.svg) |
+| Ge2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Ge2_volume_split_row_sorted.svg) |
+| Ge3Te3 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ge3Te3_volume_split_row_sorted.svg) |
+| Ge4Mg4N8 | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/Ge4Mg4N8_volume_split_row_sorted.svg) |
+| H4 | 307 | 307 | ✅ | ✅ | ✅ success | [view](heatmaps/H4_volume_split_row_sorted.svg) |
+| H4Li4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/H4Li4_volume_split_row_sorted.svg) |
+| He2 | 307 | 307 | ✅ | ✅ | ✅ success | [view](heatmaps/He2_volume_split_row_sorted.svg) |
+| Hf2 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Hf2_volume_split_row_sorted.svg) |
+| Hg2 | 323 | 299 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ho4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ho4N4_volume_split_row_sorted.svg) |
+| I4Li4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/I4Li4_volume_split_row_sorted.svg) |
+| I8 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/I8_volume_split_row_sorted.svg) |
+| In2 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/In2_volume_split_row_sorted.svg) |
+| In4P4 | 576 | 576 | ✅ | ✅ | ✅ success | [view](heatmaps/In4P4_volume_split_row_sorted.svg) |
+| In4Sb4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/In4Sb4_volume_split_row_sorted.svg) |
+| Ir2O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ir2O4_volume_split_row_sorted.svg) |
+| Ir4 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Ir4_volume_split_row_sorted.svg) |
+| IrNa2Zn | 144 | 144 | ✅ | ✅ | ✅ success | [view](heatmaps/IrNa2Zn_volume_split_row_sorted.svg) |
+| K2 | 323 | 323 | ✅ | ✅ | ✅ success | [view](heatmaps/K2_volume_split_row_sorted.svg) |
+| Kr4 | 317 | 243 | ❌ | ✅ | ⚠️ incomplete | — |
+| Li3 | 315 | 315 | ✅ | ✅ | ✅ success | [view](heatmaps/Li3_volume_split_row_sorted.svg) |
+| Lu2 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Lu2_volume_split_row_sorted.svg) |
+| Lu4N4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Lu4N4_volume_split_row_sorted.svg) |
+| Mg2 | 317 | 293 | ❌ | ✅ | ⚠️ incomplete | — |
+| Mg4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Mg4O4_volume_split_row_sorted.svg) |
+| Mn4 | 325 | 325 | ✅ | ✅ | ✅ success | [view](heatmaps/Mn4_volume_split_row_sorted.svg) |
+| Mn4S4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Mn4S4_volume_split_row_sorted.svg) |
+| Mo2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Mo2_volume_split_row_sorted.svg) |
+| N4Nd4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Nd4_volume_split_row_sorted.svg) |
+| N4Pr4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Pr4_volume_split_row_sorted.svg) |
+| N4Sm4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Sm4_volume_split_row_sorted.svg) |
+| N4Tb4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Tb4_volume_split_row_sorted.svg) |
+| N4Ti4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Ti4_volume_split_row_sorted.svg) |
+| N4Tm4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Tm4_volume_split_row_sorted.svg) |
+| N4V4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4V4_volume_split_row_sorted.svg) |
+| N4Y4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Y4_volume_split_row_sorted.svg) |
+| N4Yb4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/N4Yb4_volume_split_row_sorted.svg) |
+| N8 | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/N8_volume_split_row_sorted.svg) |
+| Na3 | 323 | 323 | ✅ | ✅ | ✅ success | [view](heatmaps/Na3_volume_split_row_sorted.svg) |
+| Nb2 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Nb2_volume_split_row_sorted.svg) |
+| Ne4 | 317 | 264 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ni4 | 325 | 325 | ✅ | ✅ | ✅ success | [view](heatmaps/Ni4_volume_split_row_sorted.svg) |
+| Ni4O4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Ni4O4_volume_split_row_sorted.svg) |
+| O2Pd2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O2Pd2_volume_split_row_sorted.svg) |
+| O2Pt2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O2Pt2_volume_split_row_sorted.svg) |
+| O3Pm2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O3Pm2_volume_split_row_sorted.svg) |
+| O3Re | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O3Re_volume_split_row_sorted.svg) |
+| O4 | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/O4_volume_split_row_sorted.svg) |
+| O4Rh2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O4Rh2_volume_split_row_sorted.svg) |
+| O4Ru2 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O4Ru2_volume_split_row_sorted.svg) |
+| O4Sr4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O4Sr4_volume_split_row_sorted.svg) |
+| O4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O4Zn4_volume_split_row_sorted.svg) |
+| O8Po4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O8Po4_volume_split_row_sorted.svg) |
+| O8Tc4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/O8Tc4_volume_split_row_sorted.svg) |
+| Os2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Os2_volume_split_row_sorted.svg) |
+| P8 | 331 | 331 | ✅ | ✅ | ✅ success | [view](heatmaps/P8_volume_split_row_sorted.svg) |
+| Pb4 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Pb4_volume_split_row_sorted.svg) |
+| Pb4S4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Pb4S4_volume_split_row_sorted.svg) |
+| Pd4 | 317 | 317 | ✅ | ✅ | ✅ success | [view](heatmaps/Pd4_volume_split_row_sorted.svg) |
+| Po | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Po_volume_split_row_sorted.svg) |
+| Pt4 | 307 | 307 | ✅ | ✅ | ✅ success | [view](heatmaps/Pt4_volume_split_row_sorted.svg) |
+| Rb2 | 315 | 315 | ✅ | ✅ | ✅ success | [view](heatmaps/Rb2_volume_split_row_sorted.svg) |
+| Re2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Re2_volume_split_row_sorted.svg) |
+| Rh4 | 315 | 315 | ✅ | ✅ | ✅ success | [view](heatmaps/Rh4_volume_split_row_sorted.svg) |
+| Rn4 | 307 | 236 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ru2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Ru2_volume_split_row_sorted.svg) |
+| S | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/S_volume_split_row_sorted.svg) |
+| S4Sc4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/S4Sc4_volume_split_row_sorted.svg) |
+| S4Sn4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/S4Sn4_volume_split_row_sorted.svg) |
+| S4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/S4Zn4_volume_split_row_sorted.svg) |
+| Sb6 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Sb6_volume_split_row_sorted.svg) |
+| Sc2 | 325 | 325 | ✅ | ✅ | ✅ success | [view](heatmaps/Sc2_volume_split_row_sorted.svg) |
+| Se3 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Se3_volume_split_row_sorted.svg) |
+| Si2 | 333 | 333 | ✅ | ✅ | ✅ success | [view](heatmaps/Si2_volume_split_row_sorted.svg) |
+| Sn2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Sn2_volume_split_row_sorted.svg) |
+| Sr4 | 317 | 296 | ❌ | ✅ | ⚠️ incomplete | — |
+| Ta2 | 317 | 317 | ✅ | ✅ | ✅ success | [view](heatmaps/Ta2_volume_split_row_sorted.svg) |
+| Tc2 | 327 | 327 | ✅ | ✅ | ✅ success | [view](heatmaps/Tc2_volume_split_row_sorted.svg) |
+| Te3 | 323 | 323 | ✅ | ✅ | ✅ success | [view](heatmaps/Te3_volume_split_row_sorted.svg) |
+| Te4Zn4 | 288 | 288 | ✅ | ✅ | ✅ success | [view](heatmaps/Te4Zn4_volume_split_row_sorted.svg) |
+| Ti2 | 329 | 329 | ✅ | ✅ | ✅ success | [view](heatmaps/Ti2_volume_split_row_sorted.svg) |
+| Tl2 | 317 | 317 | ✅ | ✅ | ✅ success | [view](heatmaps/Tl2_volume_split_row_sorted.svg) |
+| V2 | 331 | 331 | ✅ | ✅ | ✅ success | [view](heatmaps/V2_volume_split_row_sorted.svg) |
+| W2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/W2_volume_split_row_sorted.svg) |
+| Xe4 | 307 | 229 | ❌ | ✅ | ⚠️ incomplete | — |
+| Y2 | 319 | 319 | ✅ | ✅ | ✅ success | [view](heatmaps/Y2_volume_split_row_sorted.svg) |
+| Zn2 | 323 | 275 | ❌ | ✅ | ⚠️ incomplete | — |
+| Zr2 | 321 | 321 | ✅ | ✅ | ✅ success | [view](heatmaps/Zr2_volume_split_row_sorted.svg) |
