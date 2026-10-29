@@ -1,5 +1,9 @@
 # DOS Convergence Analysis
 
+![DOS-similarity heatmap for AgKO3, sorted by row similarity: the blocks along the diagonal show which numerical settings give a converged density of states](results/full_run/heatmaps/AgKO3_volume_split_row_sorted.svg)
+
+*Example result (AgKO3): DOS similarity between all 144 calculations, sorted so that groups of converged settings appear as red diagonal blocks. The lower panel shows the k-point count and basis-function count behind each calculation.*
+
 Reproducing and extending the numerical-error / DOS-similarity analysis from:
 
 > Martin Kuban, Santiago Rigamonti, and Claudia Draxl:
@@ -48,7 +52,9 @@ dos-convergence-analysis/
 │   │
 │   ├── 01_reproduce_algao3.ipynb          # Single-material (AlGaO3) workflow validation
 │   ├── 02_validation_smoke_test.ipynb     # 5-material smoke test of the full pipeline
-│   └── 03_updated_workflow_smoke_test.ipynb  # Finalized workflow, ready for full run
+│   ├── 03_updated_workflow_smoke_test.ipynb  # Finalized workflow, ready for full run
+│   ├── 04_all_materials.ipynb             # Full run over all materials (per-material heatmaps + results table)
+│   └── 05_full_run_row_sorted.ipynb       # Full run with volume-split, row-similarity-sorted heatmaps
 │
 ├── results/
 │   ├── validation/                       # Smoke-test outputs (5 materials)
@@ -105,7 +111,8 @@ jupyter notebook
 - To reproduce the full 161-material DOS-convergence run, start with
   `01_reproduce_algao3.ipynb`, then `02_validation_smoke_test.ipynb`, then
   `03_updated_workflow_smoke_test.ipynb` — each validates progressively more of the pipeline
-  before the full run.
+  before the full run — then `04_all_materials.ipynb`, and finally
+  `05_full_run_row_sorted.ipynb` for the row-sorted, volume-split heatmaps.
 
 Alternatively, generate static PDF versions of any notebook:
 
